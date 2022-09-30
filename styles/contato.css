@@ -42,3 +42,18 @@
     padding-left: 3em;
 
 }
+
+@media screen and (min-width: 1024px) {
+
+    .contato {
+        display: flex;
+
+
+    }
+
+    .contato__email {
+        width: 50%;
+
+    }
+    
+}
